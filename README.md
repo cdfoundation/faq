@@ -42,6 +42,10 @@ The CDF is launching with four projects: [Jenkins](https://jenkins.io/), [Jenkin
 
 Absolutely not, technical contributions to open source projects in the CDF or any Linux Foundation initiative do not require membership. Organizations join CDF as members because they want to take an active role in supporting the growth and evolution of continuous delivery models and best practices on top of sustaining the open source projects within the CDF. If you are interested in joining, please see see [https://cd.foundation/members/join/](https://cd.foundation/members/join/).
 
+## Do I have to pay to play or contribute to a CDF project?
+
+As answered above, CDF is a "pay to sustain" organization and no technical contributions require membership.  The members of CDF have a voice in how the budget is spent to sustain the organization for the long term (think events, marketing, infrastructure, diversity scholarships and so on).
+
 ## What is Jenkins?
 
 [Jenkins](https://jenkins.io/) is the leading open source automation server supported by a large and growing community of developers, testers, designers and other people interested in continuous integration, continuous delivery and modern software delivery practices. Built on the Java Virtual Machine (JVM), it provides more than 1,500 plugins that extend Jenkins to automate with practically any technology software delivery teams use. In 2019, Jenkins surpassed 200,000 known installations making it the most widely deployed automation server.
