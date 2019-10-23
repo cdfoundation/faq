@@ -64,7 +64,7 @@ Donating Jenkins and Jenkins X to the CDF will foster greater collaboration amon
 
 ## What is Tekton?
 
-[Tekton](http://github.com/tektoncd) is a set of shared, open source components for building CI/CD systems. It modernizes the Continuous Delivery control plane and moves the brains of software deployment to Kubernetes. Tekton’s goal is to provide industry specifications for CI/CD pipelines, workflows and other building blocks through a vendor neutral, open source foundation. The source of Tekton comes from [https://github.com/tektoncd/pipeline](https://github.com/knative/build-pipeline).
+[Tekton](http://github.com/tektoncd) is a set of shared, open source components for building CI/CD systems. It modernizes the Continuous Delivery control plane and moves the brains of software deployment to Kubernetes. Tekton’s goal is to provide industry specifications for CI/CD pipelines, workflows and other building blocks through a vendor neutral, open source foundation. The source of Tekton comes from [https://github.com/tektoncd/pipeline](https://github.com/tektoncd/pipeline).
 
 ## Why is Tekton becoming a part of the CDF? Why is Google donating the code?
 
