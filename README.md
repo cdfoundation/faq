@@ -60,7 +60,7 @@ Jenkins and Jenkins X will be part of a neutral community aligned with technical
 
 ## How does this affect existing Jenkins users?
 
-Donating Jenkins and Jenkins X to the CDF will foster greater collaboration among developers, end users, and vendors in the industry. See this email and conversation with the Jenkins community for more details: [https://groups.google.com/forum/#!msg/](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)[jenkinsci](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)[-dev/1w57jl3K4S4/](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)[OFDYSEfXEwAJ](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)
+Donating Jenkins and Jenkins X to the CDF will foster greater collaboration among developers, end users, and vendors in the industry. See this email and conversation with the Jenkins community for more details: [https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)
 
 ## What is Tekton?
 
