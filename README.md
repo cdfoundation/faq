@@ -8,7 +8,7 @@ CD is a software engineering approach in which teams produce software in short c
 
 The Continuous Delivery Foundation (CDF) is a new, neutral organization that will grow and sustain an open continuous delivery ecosystem. It will provide unified governance and vendor-neutral stewardship, as well as oversight of funding and operations. The first projects of the CD Foundation are Jenkins, Jenkins X, Spinnaker, and Tekton.
 
-## Why did the CD community form the foundation. Why is it needed?
+## Why did the CD community form the foundation? Why is it needed?
 
 There is a strong need across the industry to collaborate on defining industry specifications around pipelines, workflows and other CI/CD areas, as well as provide foundational support for CI/CD tools. For example, the Jenkins community is seeking a "full service" foundation to host Jenkins (one of the most popular CI/CD projects) and build a platform for increased collaboration. There is also a desire for an industry-wide neutral DevOps/CD conference.
 
@@ -24,7 +24,7 @@ The challenges CI/CD projects face today, including tool complexity and lack of 
 
 ## Who uses CD?
 
-CD is widely utilized across cloud computing, enterprise IT, and is rapidly expanding into other top industry verticals. In networking, for example, operators are working side by side with vendors to develop CI/CD tooling that enables developers to work directly with branches of upstream projects -- slashing the time to implement new features and address bugs from months to days. When working with cloud native technologies, like [Kubernetes](https://kubernetes.io/), setting up a CI/CD pipeline will speed up the release lifecycle. This enables the developer to release multiple times a day; keeping teams nimble enough to iterate quickly. 
+CD is widely utilized across cloud computing, enterprise IT, and is rapidly expanding into other top industry verticals. In networking, for example, operators are working side by side with vendors to develop CI/CD tooling that enables developers to work directly with branches of upstream projects -- slashing the time to implement new features and address bugs from months to days. When working with cloud native technologies, like [Kubernetes](https://kubernetes.io/), setting up a CI/CD pipeline will speed up the release lifecycle. This enables the developer to release multiple times a day, keeping teams nimble enough to iterate quickly. 
 
 ## How does CDF relate to progressive delivery?
 
@@ -40,7 +40,7 @@ The CDF is launching with four projects: [Jenkins](https://jenkins.io/), [Jenkin
 
 ## Do I have to be a member to contribute to CDF projects?
 
-Absolutely not, technical contributions to open source projects in the CDF or any Linux Foundation initiative do not require membership. Organizations join CDF as members because they want to take an active role in supporting the growth and evolution of continuous delivery models and best practices on top of sustaining the open source projects within the CDF. If you are interested in joining, please see see [https://cd.foundation/members/join/](https://cd.foundation/members/join/).
+Absolutely not, technical contributions to open source projects in the CDF or any Linux Foundation initiative do not require membership. Organizations join CDF as members because they want to take an active role in supporting the growth and evolution of continuous delivery models and best practices on top of sustaining the open source projects within the CDF. If you are interested in joining, please see [https://cd.foundation/members/join/](https://cd.foundation/members/join/).
 
 ## Do I have to pay to play or contribute to a CDF project?
 
@@ -60,15 +60,15 @@ Jenkins and Jenkins X will be part of a neutral community aligned with technical
 
 ## How does this affect existing Jenkins users?
 
-Donating Jenkins and Jenkins X to the CDF will foster greater collaboration among developers, end users, and vendors in the industry. See this email and conversation with the Jenkins community for more details: [https://groups.google.com/forum/#!msg/](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)[jenkinsci](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)[-dev/1w57jl3K4S4/](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)[OFDYSEfXEwAJ](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)
+Donating Jenkins and Jenkins X to the CDF will foster greater collaboration among developers, end users, and vendors in the industry. See this email and conversation with the Jenkins community for more details: [https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ](https://groups.google.com/forum/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)
 
 ## What is Tekton?
 
-[Tekton](http://github.com/tektoncd) is a set of shared, open source components for building CI/CD systems. It modernizes the Continuous Delivery control plane and moves the brains of software deployment to Kubernetes. Tekton’s goal is to provide industry specifications for CI/CD pipelines, workflows and other building blocks through a vendor neutral, open source foundation. The source of Tekton comes from [https://github.com/tektoncd/pipeline](https://github.com/knative/build-pipeline).
+[Tekton](http://github.com/tektoncd) is a set of shared, open source components for building CI/CD systems. It modernizes the Continuous Delivery control plane and moves the brains of software deployment to Kubernetes. Tekton’s goal is to provide industry specifications for CI/CD pipelines, workflows and other building blocks through a vendor neutral, open source foundation. The source of Tekton comes from [https://github.com/tektoncd/pipeline](https://github.com/tektoncd/pipeline).
 
 ## Why is Tekton becoming a part of the CDF? Why is Google donating the code?
 
-As a founding member of  the CDF, Google is donating Tekton.[ ](http://github.com/tektoncd)Just as Kubernetes revolutionized application development by providing a standard set of APIs to interact with in the cloud, Google’s goal is to offer the same advantages to DevOps practitioners through the CDF. The CDF will provide industry specifications, secure, practical, and extensible continuous delivery building blocks that can be used to deploy code anywhere.
+As a founding member of the CDF, Google is donating [Tekton](http://github.com/tektoncd). Just as Kubernetes revolutionized application development by providing a standard set of APIs to interact with in the cloud, Google’s goal is to offer the same advantages to DevOps practitioners through the CDF. The CDF will provide industry specifications, secure, practical, and extensible continuous delivery building blocks that can be used to deploy code anywhere.
 
 ## What will happen with knative build with Tekton?
 
