@@ -108,7 +108,7 @@ The first thing to note is that CD is applicable across the entire software indu
 
 The CDF’s mission is to provide a neutral home for the developers, end users and vendors to collaborate on CI/CD methodologies. In this respect, CDF will support DevOps practitioners through the publication of best practices, training materials and industry guidelines focusing on portability.  
 
-Organizations interested in becoming members of the new foundation and shaping its governance should visit the CDF Join page. Developers can sign up to the CDF Mailing List here: info@lists.cd.foundation. Any projects interested in joining the CDF, can contact the Technical Oversight Committee ("TOC") [https://github.com/cdfoundation/toc](https://github.com/cdfoundation/toc). 
+Organizations interested in becoming members of the new foundation and shaping its governance should visit the [CDF Join page](https://cd.foundation/members/join/). Developers can sign up to the [CDF Mailing List here](lists.cd.foundation/g/main). Any projects interested in joining the CDF, can contact the Technical Oversight Committee ("TOC") [https://github.com/cdfoundation/toc](https://github.com/cdfoundation/toc). 
 
 ## Where can I learn more about CDF and stay up to date?
 
