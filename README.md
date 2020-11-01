@@ -94,7 +94,7 @@ Spinnaker users will also benefit from the extensive CI/CD knowledge represented
 
 ## What will be the process for future CI/CD projects to come into the CDF?
 
-Additional projects are expected to join the CDF through its soon to be formed Technical Oversight Committee (TOC): [https://github.com/cdfoundation/toc](https://github.com/cdfoundation/toc) with the focus of bringing together the CD ecosystem to build specifications and projects around portability and interoperability.
+Additional projects are expected to join the CDF through its Technical Oversight Committee (TOC): [https://github.com/cdfoundation/toc](https://github.com/cdfoundation/toc) with the focus of bringing together the CD ecosystem to build specifications and projects around portability and interoperability.
 
 ## What are the next steps for the CDF?
 
