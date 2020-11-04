@@ -36,7 +36,7 @@ Continuous delivery improves velocity, productivity, and sustainability of softw
 
 ## Which projects will be included in the CDF?
 
-The CDF is launching with four projects: [Jenkins](https://jenkins.io/), [Jenkins X](https://jenkins-x.io), [Spinnaker](https://www.spinnaker.io/), and [Tekton](http://github.com/tektoncd), and there are more interested projects in the pipeline. We invite people to follow the CDF Technical Operating Committee where project decisions will be made in the future: [https://github.com/cdfoundation/toc](https://github.com/cdfoundation/toc).
+The CDF is launching with four projects: [Jenkins](https://jenkins.io/), [Jenkins X](https://jenkins-x.io), [Spinnaker](https://www.spinnaker.io/), and [Tekton](http://github.com/tektoncd), and there are more interested projects in the pipeline. We invite people to follow the CDF Technical Oversight Committee where project decisions will be made in the future: [https://github.com/cdfoundation/toc](https://github.com/cdfoundation/toc).
 
 ## Do I have to be a member to contribute to CDF projects?
 
